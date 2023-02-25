@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "me.duncanruns.awman.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "MobEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

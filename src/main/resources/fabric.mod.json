@@ -1,0 +1,16 @@
+{
+	"schemaVersion": 1,
+	"id": "awman",
+	"version": "${version}",
+	"name": "Aw Man",
+	"description": "Creepers spawn with every mob and animal.",
+	"authors": [
+		"DuncanRuns"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/awman/icon.png",
+	"environment": "*",
+	"mixins": [
+		"awman.mixins.json"
+	]
+}
